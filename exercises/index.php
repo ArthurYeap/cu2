@@ -11,6 +11,6 @@
     <title>Document</title>
 </head>
 <body>
-<script src="destructturing.js"> </script>
+<script src="exercise.js"></script>
 </body>
 </html>

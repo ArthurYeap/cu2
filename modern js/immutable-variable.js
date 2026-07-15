@@ -11,7 +11,7 @@ const student ={
 }
 student.age=33;
 student.hobby ="Chess"
-
+console.log(student)
 // const student ={
 //     name: "CC",
 //     age:"1000"
