@@ -11,6 +11,13 @@
     <title>Document</title>
 </head>
 <body>
-<script src="destructturing.js"> </script>
+<button id="myButton">Click me!</button>
+<script type="module" src="import-export-callbacks/callbacks.js"> </script>
+<script>
+    const button = document.getElementById("myButton")
+    button.addEventListener("click" ,() =>{
+        console.log("Button was cllicked")
+    })
+</script>
 </body>
 </html>
